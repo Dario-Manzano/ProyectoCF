@@ -1,0 +1,445 @@
+period,region,pe_id,com_id
+2022-01-01,Antofagasta,42,42
+2022-01-01,Araucania,2,2
+2022-01-01,Araucanía,58,58
+2022-01-01,Arica y Parinacota,15,15
+2022-01-01,Atacama,4,4
+2022-01-01,Aysén,2,2
+2022-01-01,Bio Bio,5,5
+2022-01-01,Bío Bío,96,96
+2022-01-01,Coquimbo,45,45
+2022-01-01,Los Lagos,52,52
+2022-01-01,Los Ríos,11,11
+2022-01-01,Los Ríos Region,2,2
+2022-01-01,Los lagos,1,1
+2022-01-01,Magallanes y la Antártica Chilena,1,1
+2022-01-01,Maule,16,16
+2022-01-01,O'Higgins,17,17
+2022-01-01,RM,4,4
+2022-01-01,Región Metropolitana,1823,1823
+2022-01-01,Región de Antofagasta,24,24
+2022-01-01,Región de Arica y Parinacota,5,5
+2022-01-01,Región de Atacama,1,1
+2022-01-01,Región de Coquimbo,25,25
+2022-01-01,Región de Tarapacá,17,17
+2022-01-01,Región de Valparaíso,76,76
+2022-01-01,Región de la Araucanía,10,10
+2022-01-01,Región de los Lagos,13,13
+2022-01-01,Región de los Ríos,1,1
+2022-01-01,Región del Bío Bío,44,44
+2022-01-01,Región del Libertador General Bernardo O’Higgins,7,7
+2022-01-01,Región del Maule,4,4
+2022-01-01,Santiago Metropolitan Region,17,17
+2022-01-01,Tarapacá,31,31
+2022-01-01,Valparaiso Region,8,8
+2022-01-01,Valparaíso,226,226
+2022-01-01,Valparíso,1,1
+2022-01-01,desconocido,44,44
+2022-01-01,Ñuble,3,3
+2022-02-01,Antofagasta,48,48
+2022-02-01,Araucania,2,2
+2022-02-01,Araucanía,55,55
+2022-02-01,Arica y Parinacota,14,14
+2022-02-01,Atacama,4,4
+2022-02-01,Aysén,2,2
+2022-02-01,Bio Bio,6,6
+2022-02-01,Bío Bío,106,106
+2022-02-01,Coquimbo,45,45
+2022-02-01,Los Lagos,55,55
+2022-02-01,Los Ríos,9,9
+2022-02-01,Los Ríos Region,2,2
+2022-02-01,Los lagos,1,1
+2022-02-01,Magallanes y la Antártica Chilena,1,1
+2022-02-01,Maule,15,15
+2022-02-01,O'Higgins,17,17
+2022-02-01,RM,4,4
+2022-02-01,Región Metropolitana,1830,1830
+2022-02-01,Región de Antofagasta,24,24
+2022-02-01,Región de Arica y Parinacota,5,5
+2022-02-01,Región de Atacama,0,0
+2022-02-01,Región de Coquimbo,25,25
+2022-02-01,Región de Tarapacá,17,17
+2022-02-01,Región de Valparaíso,76,76
+2022-02-01,Región de la Araucanía,10,10
+2022-02-01,Región de los Lagos,13,13
+2022-02-01,Región de los Ríos,1,1
+2022-02-01,Región del Bío Bío,44,44
+2022-02-01,Región del Libertador General Bernardo O’Higgins,7,7
+2022-02-01,Región del Maule,4,4
+2022-02-01,Santiago Metropolitan Region,17,17
+2022-02-01,Tarapacá,30,30
+2022-02-01,Valparaiso Region,8,8
+2022-02-01,Valparaíso,233,233
+2022-02-01,Valparíso,1,1
+2022-02-01,desconocido,44,44
+2022-02-01,Ñuble,3,3
+2022-03-01,Antofagasta,47,47
+2022-03-01,Araucania,2,2
+2022-03-01,Araucanía,58,58
+2022-03-01,Arica y Parinacota,17,17
+2022-03-01,Atacama,4,4
+2022-03-01,Aysén,2,2
+2022-03-01,Bio Bio,6,6
+2022-03-01,Bío Bío,106,106
+2022-03-01,Coquimbo,43,43
+2022-03-01,Los Lagos,56,56
+2022-03-01,Los Ríos,10,10
+2022-03-01,Los Ríos Region,2,2
+2022-03-01,Los lagos,1,1
+2022-03-01,Magallanes y la Antártica Chilena,1,1
+2022-03-01,Maule,15,15
+2022-03-01,O'Higgins,18,18
+2022-03-01,RM,4,4
+2022-03-01,Región Metropolitana,1860,1860
+2022-03-01,Región de Antofagasta,24,24
+2022-03-01,Región de Arica y Parinacota,5,5
+2022-03-01,Región de Atacama,0,0
+2022-03-01,Región de Coquimbo,25,25
+2022-03-01,Región de Tarapacá,17,17
+2022-03-01,Región de Valparaíso,76,76
+2022-03-01,Región de la Araucanía,10,10
+2022-03-01,Región de los Lagos,13,13
+2022-03-01,Región de los Ríos,1,1
+2022-03-01,Región del Bío Bío,45,45
+2022-03-01,Región del Libertador General Bernardo O’Higgins,7,7
+2022-03-01,Región del Maule,4,4
+2022-03-01,Santiago Metropolitan Region,17,17
+2022-03-01,Tarapacá,32,32
+2022-03-01,Valparaiso Region,8,8
+2022-03-01,Valparaíso,238,238
+2022-03-01,Valparíso,1,1
+2022-03-01,desconocido,44,44
+2022-03-01,Ñuble,3,3
+2022-04-01,Antofagasta,49,49
+2022-04-01,Araucania,4,4
+2022-04-01,Araucanía,64,64
+2022-04-01,Arica y Parinacota,17,17
+2022-04-01,Atacama,4,4
+2022-04-01,Aysén,2,2
+2022-04-01,Bio Bio,6,6
+2022-04-01,Bío Bío,110,110
+2022-04-01,Coquimbo,44,44
+2022-04-01,Los Lagos,59,59
+2022-04-01,Los Ríos,10,10
+2022-04-01,Los Ríos Region,2,2
+2022-04-01,Los lagos,1,1
+2022-04-01,Magallanes y la Antártica Chilena,1,1
+2022-04-01,Maule,17,17
+2022-04-01,O'Higgins,19,19
+2022-04-01,RM,4,4
+2022-04-01,Región Metropolitana,1893,1893
+2022-04-01,Región de Antofagasta,24,24
+2022-04-01,Región de Arica y Parinacota,5,5
+2022-04-01,Región de Atacama,0,0
+2022-04-01,Región de Coquimbo,25,25
+2022-04-01,Región de Tarapacá,17,17
+2022-04-01,Región de Valparaíso,76,76
+2022-04-01,Región de la Araucanía,10,10
+2022-04-01,Región de los Lagos,13,13
+2022-04-01,Región de los Ríos,1,1
+2022-04-01,Región del Bío Bío,46,46
+2022-04-01,Región del Libertador General Bernardo O’Higgins,7,7
+2022-04-01,Región del Maule,4,4
+2022-04-01,Santiago Metropolitan Region,19,19
+2022-04-01,Tarapacá,33,33
+2022-04-01,Valparaiso Region,8,8
+2022-04-01,Valparaíso,243,243
+2022-04-01,Valparíso,1,1
+2022-04-01,desconocido,44,44
+2022-04-01,Ñuble,3,3
+2022-05-01,Antofagasta,52,52
+2022-05-01,Araucania,4,4
+2022-05-01,Araucanía,68,68
+2022-05-01,Arica y Parinacota,17,17
+2022-05-01,Atacama,4,4
+2022-05-01,Aysén,2,2
+2022-05-01,Bio Bio,6,6
+2022-05-01,Bío Bío,119,119
+2022-05-01,Coquimbo,45,45
+2022-05-01,Los Lagos,62,62
+2022-05-01,Los Ríos,11,11
+2022-05-01,Los Ríos Region,2,2
+2022-05-01,Los lagos,1,1
+2022-05-01,Magallanes y la Antártica Chilena,1,1
+2022-05-01,Maule,18,18
+2022-05-01,O'Higgins,19,19
+2022-05-01,RM,4,4
+2022-05-01,Región Metropolitana,1944,1944
+2022-05-01,Región de Antofagasta,24,24
+2022-05-01,Región de Arica y Parinacota,5,5
+2022-05-01,Región de Atacama,0,0
+2022-05-01,Región de Coquimbo,25,25
+2022-05-01,Región de Tarapacá,17,17
+2022-05-01,Región de Valparaíso,76,76
+2022-05-01,Región de la Araucanía,10,10
+2022-05-01,Región de los Lagos,13,13
+2022-05-01,Región de los Ríos,1,1
+2022-05-01,Región del Bío Bío,46,46
+2022-05-01,Región del Libertador General Bernardo O’Higgins,7,7
+2022-05-01,Región del Maule,4,4
+2022-05-01,Santiago Metropolitan Region,19,19
+2022-05-01,Tarapacá,32,32
+2022-05-01,Valparaiso Region,8,8
+2022-05-01,Valparaíso,260,260
+2022-05-01,Valparíso,1,1
+2022-05-01,desconocido,44,44
+2022-05-01,Ñuble,3,3
+2022-06-01,Antofagasta,52,52
+2022-06-01,Araucania,4,4
+2022-06-01,Araucanía,70,70
+2022-06-01,Arica y Parinacota,17,17
+2022-06-01,Atacama,5,5
+2022-06-01,Aysén,2,2
+2022-06-01,Bio Bio,6,6
+2022-06-01,Bío Bío,122,122
+2022-06-01,Coquimbo,48,48
+2022-06-01,Los Lagos,66,66
+2022-06-01,Los Ríos,11,11
+2022-06-01,Los Ríos Region,2,2
+2022-06-01,Los lagos,1,1
+2022-06-01,Magallanes y la Antártica Chilena,1,1
+2022-06-01,Maule,20,20
+2022-06-01,O'Higgins,22,22
+2022-06-01,RM,4,4
+2022-06-01,Región Metropolitana,1990,1990
+2022-06-01,Región de Antofagasta,24,24
+2022-06-01,Región de Arica y Parinacota,5,5
+2022-06-01,Región de Atacama,0,0
+2022-06-01,Región de Coquimbo,25,25
+2022-06-01,Región de Tarapacá,17,17
+2022-06-01,Región de Valparaíso,76,76
+2022-06-01,Región de la Araucanía,10,10
+2022-06-01,Región de los Lagos,13,13
+2022-06-01,Región de los Ríos,1,1
+2022-06-01,Región del Bío Bío,46,46
+2022-06-01,Región del Libertador General Bernardo O’Higgins,7,7
+2022-06-01,Región del Maule,4,4
+2022-06-01,Santiago Metropolitan Region,19,19
+2022-06-01,Tarapacá,33,33
+2022-06-01,Valparaiso Region,8,8
+2022-06-01,Valparaíso,268,268
+2022-06-01,Valparíso,1,1
+2022-06-01,desconocido,44,44
+2022-06-01,Ñuble,3,3
+2022-07-01,Antofagasta,52,52
+2022-07-01,Araucania,4,4
+2022-07-01,Araucanía,72,72
+2022-07-01,Arica y Parinacota,17,17
+2022-07-01,Atacama,4,4
+2022-07-01,Aysén,2,2
+2022-07-01,Bio Bio,6,6
+2022-07-01,Bío Bío,127,127
+2022-07-01,Coquimbo,49,49
+2022-07-01,Los Lagos,69,69
+2022-07-01,Los Ríos,12,12
+2022-07-01,Los Ríos Region,2,2
+2022-07-01,Los lagos,1,1
+2022-07-01,Magallanes y la Antártica Chilena,1,1
+2022-07-01,Maule,20,20
+2022-07-01,O'Higgins,21,21
+2022-07-01,RM,4,4
+2022-07-01,Región Metropolitana,2052,2052
+2022-07-01,Región de Antofagasta,24,24
+2022-07-01,Región de Arica y Parinacota,5,5
+2022-07-01,Región de Atacama,0,0
+2022-07-01,Región de Coquimbo,25,25
+2022-07-01,Región de Tarapacá,17,17
+2022-07-01,Región de Valparaíso,76,76
+2022-07-01,Región de la Araucanía,10,10
+2022-07-01,Región de los Lagos,13,13
+2022-07-01,Región de los Ríos,1,1
+2022-07-01,Región del Bío Bío,47,47
+2022-07-01,Región del Libertador General Bernardo O’Higgins,7,7
+2022-07-01,Región del Maule,4,4
+2022-07-01,Santiago Metropolitan Region,20,20
+2022-07-01,Tarapacá,35,35
+2022-07-01,Valparaiso Region,8,8
+2022-07-01,Valparaíso,275,275
+2022-07-01,Valparíso,1,1
+2022-07-01,desconocido,44,44
+2022-07-01,Ñuble,3,3
+2022-08-01,Antofagasta,54,54
+2022-08-01,Araucania,4,4
+2022-08-01,Araucanía,72,72
+2022-08-01,Arica y Parinacota,18,18
+2022-08-01,Atacama,4,4
+2022-08-01,Aysén,2,2
+2022-08-01,Bio Bio,6,6
+2022-08-01,Bío Bío,132,132
+2022-08-01,Coquimbo,51,51
+2022-08-01,Los Lagos,72,72
+2022-08-01,Los Ríos,12,12
+2022-08-01,Los Ríos Region,2,2
+2022-08-01,Los lagos,1,1
+2022-08-01,Magallanes y la Antártica Chilena,1,1
+2022-08-01,Maule,20,20
+2022-08-01,O'Higgins,24,24
+2022-08-01,RM,4,4
+2022-08-01,Región Metropolitana,2108,2108
+2022-08-01,Región de Antofagasta,24,24
+2022-08-01,Región de Arica y Parinacota,5,5
+2022-08-01,Región de Atacama,0,0
+2022-08-01,Región de Coquimbo,25,25
+2022-08-01,Región de Tarapacá,17,17
+2022-08-01,Región de Valparaíso,76,76
+2022-08-01,Región de la Araucanía,10,10
+2022-08-01,Región de los Lagos,13,13
+2022-08-01,Región de los Ríos,1,1
+2022-08-01,Región del Bío Bío,47,47
+2022-08-01,Región del Libertador General Bernardo O’Higgins,7,7
+2022-08-01,Región del Maule,4,4
+2022-08-01,Santiago Metropolitan Region,20,20
+2022-08-01,Tarapacá,37,37
+2022-08-01,Valparaiso Region,8,8
+2022-08-01,Valparaíso,287,287
+2022-08-01,Valparíso,1,1
+2022-08-01,desconocido,44,44
+2022-08-01,Ñuble,4,4
+2022-09-01,Antofagasta,55,55
+2022-09-01,Araucania,4,4
+2022-09-01,Araucanía,74,74
+2022-09-01,Arica y Parinacota,18,18
+2022-09-01,Atacama,5,5
+2022-09-01,Aysén,2,2
+2022-09-01,Bio Bio,6,6
+2022-09-01,Bío Bío,140,140
+2022-09-01,Coquimbo,51,51
+2022-09-01,Los Lagos,72,72
+2022-09-01,Los Ríos,13,13
+2022-09-01,Los Ríos Region,2,2
+2022-09-01,Los lagos,1,1
+2022-09-01,Magallanes y la Antártica Chilena,1,1
+2022-09-01,Maule,20,20
+2022-09-01,O'Higgins,25,25
+2022-09-01,RM,4,4
+2022-09-01,Región Metropolitana,2145,2145
+2022-09-01,Región de Antofagasta,24,24
+2022-09-01,Región de Arica y Parinacota,5,5
+2022-09-01,Región de Atacama,0,0
+2022-09-01,Región de Coquimbo,25,25
+2022-09-01,Región de Tarapacá,17,17
+2022-09-01,Región de Valparaíso,76,76
+2022-09-01,Región de la Araucanía,10,10
+2022-09-01,Región de los Lagos,13,13
+2022-09-01,Región de los Ríos,1,1
+2022-09-01,Región del Bío Bío,47,47
+2022-09-01,Región del Libertador General Bernardo O’Higgins,7,7
+2022-09-01,Región del Maule,4,4
+2022-09-01,Santiago Metropolitan Region,22,22
+2022-09-01,Tarapacá,39,39
+2022-09-01,Valparaiso Region,8,8
+2022-09-01,Valparaíso,298,298
+2022-09-01,Valparíso,1,1
+2022-09-01,desconocido,44,44
+2022-09-01,Ñuble,4,4
+2022-10-01,Antofagasta,54,54
+2022-10-01,Araucania,4,4
+2022-10-01,Araucanía,78,78
+2022-10-01,Arica y Parinacota,18,18
+2022-10-01,Atacama,5,5
+2022-10-01,Aysén,2,2
+2022-10-01,Bio Bio,6,6
+2022-10-01,Bío Bío,145,145
+2022-10-01,Coquimbo,51,51
+2022-10-01,Los Lagos,74,74
+2022-10-01,Los Ríos,13,13
+2022-10-01,Los Ríos Region,1,1
+2022-10-01,Los lagos,1,1
+2022-10-01,Magallanes y la Antártica Chilena,1,1
+2022-10-01,Maule,20,20
+2022-10-01,O'Higgins,27,27
+2022-10-01,RM,4,4
+2022-10-01,Región Metropolitana,2173,2173
+2022-10-01,Región de Antofagasta,24,24
+2022-10-01,Región de Arica y Parinacota,5,5
+2022-10-01,Región de Atacama,0,0
+2022-10-01,Región de Coquimbo,25,25
+2022-10-01,Región de Tarapacá,17,17
+2022-10-01,Región de Valparaíso,76,76
+2022-10-01,Región de la Araucanía,9,9
+2022-10-01,Región de los Lagos,13,13
+2022-10-01,Región de los Ríos,1,1
+2022-10-01,Región del Bío Bío,47,47
+2022-10-01,Región del Libertador General Bernardo O’Higgins,7,7
+2022-10-01,Región del Maule,4,4
+2022-10-01,Santiago Metropolitan Region,21,21
+2022-10-01,Tarapacá,37,37
+2022-10-01,Valparaiso Region,8,8
+2022-10-01,Valparaíso,300,300
+2022-10-01,Valparíso,1,1
+2022-10-01,desconocido,43,43
+2022-10-01,Ñuble,3,3
+2022-11-01,Antofagasta,53,53
+2022-11-01,Araucania,4,4
+2022-11-01,Araucanía,77,77
+2022-11-01,Arica y Parinacota,18,18
+2022-11-01,Atacama,4,4
+2022-11-01,Aysén,2,2
+2022-11-01,Bio Bio,6,6
+2022-11-01,Bío Bío,144,144
+2022-11-01,Coquimbo,54,54
+2022-11-01,Los Lagos,74,74
+2022-11-01,Los Ríos,14,14
+2022-11-01,Los Ríos Region,1,1
+2022-11-01,Los lagos,1,1
+2022-11-01,Magallanes y la Antártica Chilena,1,1
+2022-11-01,Maule,20,20
+2022-11-01,O'Higgins,29,29
+2022-11-01,RM,4,4
+2022-11-01,Región Metropolitana,2182,2182
+2022-11-01,Región de Antofagasta,24,24
+2022-11-01,Región de Arica y Parinacota,5,5
+2022-11-01,Región de Atacama,0,0
+2022-11-01,Región de Coquimbo,24,24
+2022-11-01,Región de Tarapacá,16,16
+2022-11-01,Región de Valparaíso,76,76
+2022-11-01,Región de la Araucanía,9,9
+2022-11-01,Región de los Lagos,13,13
+2022-11-01,Región de los Ríos,1,1
+2022-11-01,Región del Bío Bío,47,47
+2022-11-01,Región del Libertador General Bernardo O’Higgins,7,7
+2022-11-01,Región del Maule,4,4
+2022-11-01,Santiago Metropolitan Region,19,19
+2022-11-01,Tarapacá,39,39
+2022-11-01,Valparaiso Region,8,8
+2022-11-01,Valparaíso,298,298
+2022-11-01,Valparíso,1,1
+2022-11-01,desconocido,42,42
+2022-11-01,Ñuble,4,4
+2022-12-01,Antofagasta,31,31
+2022-12-01,Araucania,3,3
+2022-12-01,Araucanía,40,40
+2022-12-01,Arica y Parinacota,7,7
+2022-12-01,Atacama,2,2
+2022-12-01,Aysén,1,1
+2022-12-01,Bio Bio,6,6
+2022-12-01,Bío Bío,74,74
+2022-12-01,Coquimbo,31,31
+2022-12-01,Los Lagos,52,52
+2022-12-01,Los Ríos,10,10
+2022-12-01,Los Ríos Region,1,1
+2022-12-01,Los lagos,1,1
+2022-12-01,Magallanes y la Antártica Chilena,1,1
+2022-12-01,Maule,14,14
+2022-12-01,O'Higgins,13,13
+2022-12-01,RM,0,0
+2022-12-01,Región Metropolitana,778,778
+2022-12-01,Región de Antofagasta,11,11
+2022-12-01,Región de Arica y Parinacota,3,3
+2022-12-01,Región de Atacama,0,0
+2022-12-01,Región de Coquimbo,11,11
+2022-12-01,Región de Tarapacá,10,10
+2022-12-01,Región de Valparaíso,42,42
+2022-12-01,Región de la Araucanía,3,3
+2022-12-01,Región de los Lagos,7,7
+2022-12-01,Región de los Ríos,1,1
+2022-12-01,Región del Bío Bío,30,30
+2022-12-01,Región del Libertador General Bernardo O’Higgins,4,4
+2022-12-01,Región del Maule,4,4
+2022-12-01,Santiago Metropolitan Region,9,9
+2022-12-01,Tarapacá,24,24
+2022-12-01,Valparaiso Region,3,3
+2022-12-01,Valparaíso,120,120
+2022-12-01,Valparíso,1,1
+2022-12-01,desconocido,25,25
+2022-12-01,Ñuble,2,2
